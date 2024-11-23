@@ -43,7 +43,7 @@ Follow these steps to set up the Victoria Perfumes application locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/victoria-perfumes.git
+git clone https://github.com/Omar7tech/victoria-perfumes.git
 ```
 
 ### 2. Set Up XAMPP
@@ -116,11 +116,6 @@ Records can be deleted directly from the dashboard using AJAX calls, offering a 
 
 ---
 
-## Screenshots
-
-_Add screenshots here to showcase the interface and features._
-
----
 
 ## Conclusion
 
